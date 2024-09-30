@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "50335315057",
+    "project_id": "sso-6ef47",
+    "storage_bucket": "sso-6ef47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50335315057:android:077d4687ef92793a9bd7d0",
+        "android_client_info": {
+          "package_name": "com.example.sso_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdzbBzeeoo_eJxht_v5QGE8frI3niLHQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
